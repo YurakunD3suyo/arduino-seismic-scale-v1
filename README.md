@@ -20,6 +20,7 @@ fritzingの画像は後程張りますのでしばしお待ちを...
 2. コマンドプロンプトを開き、`python -m pip install pyserial` を実行する
 
 3. Python-Calcu.pyを右クリックし、プログラムから実行する>Python 3.10 を選択
+
 ![image](https://user-images.githubusercontent.com/128114749/225811494-beef7860-9448-4250-b1e7-103018d74e75.png)
 
 4.計算結果が出るはずです！
