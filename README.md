@@ -1,5 +1,6 @@
 # arduino-seismic-scale-v1
 P2P地震情報で公開されている「ラズパイ震度計」を、Arduinoとのシリアル通信で実現したものです。
+ラズパイ地震計→https://www.p2pquake.net/rpi_seismometer/
 
 ## 作り方
 作り方は「ラズパイ地震計」と同じで、Arduinoに置き換わっただけです。
