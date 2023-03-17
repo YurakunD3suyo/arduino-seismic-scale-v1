@@ -5,7 +5,7 @@ P2P地震情報で公開されている「ラズパイ震度計」を、Arduino�
 
 ## 作り方
 作り方は「ラズパイ地震計」と同じで、Arduinoに置き換わっただけです。
-https://www.p2pquake.net/rpi_seismometer/の部品をそろえてください！
+https://www.p2pquake.net/rpi_seismometer/ の部品をそろえてください！
 
 fritzingの画像は後程張りますのでしばしお待ちを...
 
