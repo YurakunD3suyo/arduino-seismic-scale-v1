@@ -23,5 +23,6 @@ fritzingの画像は後程張りますのでしばしお待ちを...
 ![image](https://user-images.githubusercontent.com/128114749/225811494-beef7860-9448-4250-b1e7-103018d74e75.png)
 
 4.計算結果が出るはずです！
+
 ![image](https://user-images.githubusercontent.com/128114749/225812862-ec31e629-ee03-4b53-beee-9a8432de31e1.png)
 
