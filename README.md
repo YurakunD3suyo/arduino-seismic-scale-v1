@@ -5,6 +5,9 @@ P2P地震情報で公開されている「ラズパイ震度計」を、Arduino�
 作り方は「ラズパイ地震計」と同じで、Arduinoに置き換わっただけです。
 fritzingの画像は後程張りますのでしばしお待ちを...
 
+## ダウンロード
+
+
 ## Arduinoにコードを書き込もう！
 1. https://www.arduino.cc/en/software 
    に行き、Arduino IDEの最新版をダウンロード
