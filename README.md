@@ -8,7 +8,7 @@ P2P地震情報で公開されている「ラズパイ震度計」を、Arduino�
 fritzingの画像は後程張りますのでしばしお待ちを...
 
 ## ダウンロード
-https://github.com/YurakunD3suyo/arduino-seismic-scale-v1/releases/tag/seismic
+https://github.com/YurakunD3suyo/arduino-seismometer-v1/releases/tag/Pre-Release
 
 ## Arduinoにコードを書き込もう！
 1. https://www.arduino.cc/en/software 
