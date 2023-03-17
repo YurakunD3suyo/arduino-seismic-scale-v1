@@ -11,6 +11,19 @@ P2P地震情報で公開されている「ラズパイ震度計」を、Arduino�
 
 https://www.p2pquake.net/rpi_seismometer/ の部品をそろえてください！
 
+また、Arduino UnoとADコンバーターを接続する際は、次のようにつないで下さい。
+
+```
+MCP3204 CS Pin > Arduino D10
+
+MCP3204 MOSI Pin > Arduino D11
+
+MCP3204 MISO Pin > Arduino D12
+
+MCP3204 CLK Pin > Arduino D13
+```
+
+
 fritzingの画像は後程張りますのでしばしお待ちを...
 
 # ↓↓↓★Youtube動画(わかりにくいかも)★
