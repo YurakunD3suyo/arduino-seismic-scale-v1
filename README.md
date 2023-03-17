@@ -1,4 +1,5 @@
-# arduino-seismometer-v1
+# arduino-seismometer
+Arduinoで地震計を作ろうとしたとき、
 Arduinoだけだと計算に問題が...どうにかならないものか...。そんな時にできたものです。
 
 P2P地震情報で公開されている「ラズパイ震度計」を、Arduinoとのシリアル通信で実現できるようにしたものです。
