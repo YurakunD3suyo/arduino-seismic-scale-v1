@@ -13,6 +13,9 @@ https://www.p2pquake.net/rpi_seismometer/ の部品をそろえてください�
 
 fritzingの画像は後程張りますのでしばしお待ちを...
 
+# ↓↓↓★Youtube動画(わかりにくいかも)★
+https://youtu.be/G8g-4WymLOM
+
 ## ダウンロード
 https://github.com/YurakunD3suyo/arduino-seismometer/releases/latest
 
